@@ -14,3 +14,4 @@
 - python manage.py loaddata country/fixitures/coutries.json
 
 # Django-countries-metadata
+# Django-countries-metadata
